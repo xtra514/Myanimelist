@@ -1,0 +1,5 @@
+/.pytest_cache
+/.vscode
+/assets
+/venv
+/__pycache__
