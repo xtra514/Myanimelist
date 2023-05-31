@@ -36,4 +36,4 @@ def save_anime_to_csv(alpha_category: str = "", filename: str = "anime.csv"):
 
 
 if __name__ == "__main__":
-    save_anime_to_csv(alpha_category="v")
+    save_anime_to_csv(alpha_category="x")
